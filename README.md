@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor e WebDesigner
 ---------------------------
 
-Sou desenvolvedor front-end e amo tecnologia web. Normalmente, passo a maior parte do meu tempo em projetos pessoais, porém apto para sempre buscar mais conhecimento. 💻❤️
+I'm a front-end developer and I love web technology. Normally, I spend most of my time on personal projects, but I'm always ready to seek more knowledge. 💻❤️
 
 * 🌍  I'm based in São paulo
 * ✉️  You can contact me at [robsonfernandesbatera@gmail.com](mailto:robsonfernandesbatera@gmail.com)
