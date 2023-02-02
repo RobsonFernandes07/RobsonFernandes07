@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robson Fernandes da Silva
 =================================================================================================================================================
 
-Desenvolvedor e WebDesigner
+Developer and Web Designer
 ---------------------------
 
 I'm a front-end developer and I love web technology. Normally, I spend most of my time on personal projects, but I'm always ready to seek more knowledge. 💻❤️
